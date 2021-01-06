@@ -1,0 +1,16 @@
+{
+  "name": "super-mario-bros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/algorithm0r/SuperMarioBros.git",
+  "author": "aaronlam <aaronlam1618@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint . --fix --max-warnings=0"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
