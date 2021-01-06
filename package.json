@@ -2,7 +2,7 @@
   "name": "super-mario-bros",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/algorithm0r/SuperMarioBros.git",
+  "repository": "git@github.com:aaron-lam/super-mario-bros.git",
   "author": "aaronlam <aaronlam1618@gmail.com>",
   "license": "MIT",
   "scripts": {
